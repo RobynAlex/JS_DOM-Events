@@ -72,11 +72,12 @@ body {
   position: absolute;
 }
 
-#btn {
+.button {
   padding: 0.5rem 0.75rem;
   border: none;
   border-radius: 0.5rem;
   color: inherit;
-  background-color: darkcyan;
+  background-color: black;
   cursor: pointer;
 }
+
